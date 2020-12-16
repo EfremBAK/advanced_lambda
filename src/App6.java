@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.function.Predicate;
 
-//use a functional interface in place of the interface CheckPerson
+//use a functional interface (PREDICATE) in place of the interface CheckPerson
 public class App6 {
     public static void main(String[] args) {
         List<Person> roster = PersonUtils.generateRandomPersonList(100);
