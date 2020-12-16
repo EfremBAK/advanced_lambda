@@ -1,6 +1,6 @@
 import java.util.List;
 
-//Calls a utility method to perform a particular search
+//to print between to range
 public class App2 {
     public static void main(String[] args) {
         List<Person> roster = PersonUtils.generateRandomPersonList(100);
